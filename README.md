@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop web applications and quick hacks.\
+💡 &nbsp;I like to explore new technologies, develop web applications and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science as a self taught student.\
 🌱 &nbsp;I'm on track for learning more about React, Redux, Next and TypeScript.\
 ✍️ &nbsp;In my free time, I like to play computer games.\
