@@ -1,6 +1,4 @@
-![Lazar Stojanović banner](https://i.ibb.co/sCWCm4m/1678061408352.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lazar</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Lazar Stojanović</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
